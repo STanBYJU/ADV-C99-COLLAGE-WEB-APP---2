@@ -1,0 +1,23 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-weight: 50;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+}
+#resultShow{
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 6px 8px rgba(2,2,2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
